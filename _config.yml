@@ -1,10 +1,10 @@
-name: Your New Jekyll Site
+name: Programming Fear
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: true
 paginate: 5
 baseurl: "/kasper/"
 #domain_name: "http://yourblog-domain.com"
