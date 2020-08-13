@@ -6,13 +6,13 @@ markdown: kramdown
 highlighter: rouge
 logo: true
 paginate: 5
-baseurl: "/kasper/"
-#domain_name: "http://yourblog-domain.com"
+baseurl: ""
+domain_name: "https://programmingfear.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "programmingfear.github.io"
+url: "https://programmingfear.github.io"
 author: "Your Name"
 
 # Disqus config
