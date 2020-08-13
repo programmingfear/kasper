@@ -5,9 +5,9 @@ meta_description: "Your New Jekyll Site, Blogging about stuffs"
 markdown: kramdown
 highlighter: rouge
 logo: true
-paginate: 5
-baseurl: ""
-domain_name: "https://programmingfear.github.io"
+paginate: 15
+baseurl: "/casper/"
+#domain_name: "https://programmingfear.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
