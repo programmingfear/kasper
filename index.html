@@ -6,8 +6,8 @@ logo: 'assets/images/programmingfear_1000.png'
 about: 'about.html'
 ---
 
-<header class="main-header"
-    style="background: linear-gradient(to left, #ada996, #f2f2f2, #dbdbdb, #eaeaea)">
+<header class="main-header {% if page.cover %}"
+    style="background-image: url({{ page.cover }}) {%else%}backgroud-color:grey{% endif %}">
     <nav class="main-nav overlay clearfix">
         {% if page.logo %}
         <a class="blog-logo" href="{{ site.baseurl }}">
