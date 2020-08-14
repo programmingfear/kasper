@@ -499,9 +499,9 @@ margin on the iframe, cause it breaks stuff. */
 .option span {
    text-decoration: line-through    
 }
-.option span:hover {
+/* .option span:hover {
    text-decoration: none    
-}
+} */
 
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
