@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UI resources for devs who feel - 'I am bad at design'"
+title:  "UI resources for developers who feel - 'I am bad at designing'"
 date:   2020-08-14 19:40:00
 categories: Design UI FrontEnd
 ---
