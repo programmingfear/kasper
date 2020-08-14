@@ -1,7 +1,6 @@
 name: ProgrammingFear
 description: Blogging about programming stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
-
+meta_description: "This is a open source blog for all genre of programmers."
 markdown: kramdown
 highlighter: rouge
 logo: true
