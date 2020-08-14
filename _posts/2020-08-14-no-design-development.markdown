@@ -10,7 +10,7 @@ There has been a situation in every developer's life where he/she feels like **`
 
 
 <p align="center">
-  <img width="460" src="https://i.imgflip.com/4bgh2e.jpg" title="bad at designing"/></a>  
+  <img width="460" src="https://i.imgflip.com/4bgh2e.jpg" title="bad at designing"/>
 </p>
 
 
