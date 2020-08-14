@@ -1485,7 +1485,8 @@ body:not(.post-template) .post-title {
     }
 
     .blog-logo img {
-        height: 26px;
+        width:100px;
+       height:auto
     }
 
     .back-button,
