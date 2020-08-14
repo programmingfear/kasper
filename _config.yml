@@ -12,7 +12,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: "https://programmingfear.github.io"
-author: "Your Name"
+author: "charandev"
 
 # Disqus config
 disqus-shortname: ""
