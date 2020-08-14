@@ -496,7 +496,7 @@ margin on the iframe, cause it breaks stuff. */
     font-family: 'Open Sans', sans-serif;
 }
 
-.option:hover > .option span{
+.option:hover > #fear{
    text-decoration: line-through; 
    cursor:pointer;
 }
