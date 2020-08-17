@@ -28,7 +28,7 @@ Let me introduce some of my curated list of free and open-source resources that 
 > > > Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit.
 
 <p align="center">
-  <img width="200" src="https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png" title="Bootstrap"/>
+  <img width="400" src="https://sdtimes.com/wp-content/uploads/2020/06/v5-new-logo.png" title="Bootstrap"/>
 </p>
 
 ### [2. Tailwind CSS](https://tailwindcss.com/)
