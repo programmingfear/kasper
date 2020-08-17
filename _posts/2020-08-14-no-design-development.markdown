@@ -21,17 +21,17 @@ Well, if you have faced this kind of situation ever before, its perfectly alrigh
 
 Let me introduce some of my curated list of free and open-source resources that will definetely help you.
 
-# CSS Frameworks
+## CSS Frameworks
 
-## [1. Bootstrap](https://getbootstrap.com/)
+### [1. Bootstrap](https://getbootstrap.com/)
 
-> > Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit.
+> > > Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit.
 
 <p align="center">
-  <img width="400" src="https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png" title="Bootstrap"/>
+  <img width="200" src="https://www.tutorialrepublic.com/lib/images/bootstrap-illustration.png" title="Bootstrap"/>
 </p>
 
-## [2. Tailwind CSS](https://tailwindcss.com/)
+### [2. Tailwind CSS](https://tailwindcss.com/)
 
 > > Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any hassle.
 
@@ -39,35 +39,35 @@ Let me introduce some of my curated list of free and open-source resources that 
   <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb-YTRy-ZUEMKHvfwcjiFl4QofIiK9UL2kKQ&usqp=CAU" title="Tailwind CSS"/>
 </p>
 
-## [3. Creative Tim's BLK](https://demos.creative-tim.com/blk-design-system-angular/#/documentation/overview)
+### [3. Creative Tim's BLK](https://demos.creative-tim.com/blk-design-system-angular/#/documentation/overview)
 
-> > An user-friendly, open source and beautiful design system based on Bootstrap 4 and Angular.
+> > > An user-friendly, open source and beautiful design system based on Bootstrap 4 and Angular.
 
 <p align="center">
   <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbu5qE5v51AV97kx2bFtDynmBlWdmYlj6DwA&usqp=CAU" title="BLK Design"/>
 </p>
 
 
-## [4. Materialize CSS](materializecss.com)
+### [4. Materialize CSS](materializecss.com)
 
-> > Materialize is a modern responsive CSS framework based on Material Design by Google.
+> > > Materialize is a modern responsive CSS framework based on Material Design by Google.
 
 <p align="center">
   <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoCGUlCtzKO7dl0zcWa28bRJFhIz7M7wobMg&usqp=CAU" title="Materialize CSS"/>
 </p>
 
 
-## [5. Foundation](https://get.foundation/)
+### [5. Foundation](https://get.foundation/)
 
-> > The most advanced responsive front-end framework in the world.
+> > > The most advanced responsive front-end framework in the world.
 
 <p align="center">
   <img width="400" src="https://lh3.googleusercontent.com/proxy/kRiJZ2zB50CwIGYQPnatlk3ac3H4s5i0Sw17m_Mu00R9xXqIFqD4CCffqyF6UbGtCjMarCaCt058JgxOg3_ULFdbU_HLLmkLg159PyulH0NZOyjg4Yq_RwkH1YOBicUGglNYKBY6vWSJJbge_i2TQSLYww" title="Foundation"/>
 </p>
 
-## [6. Free Frontend](https://freefrontend.com/)
+### [6. Free Frontend](https://freefrontend.com/)
 
-> > Free hand-picked HTML, CSS and JavaScript code examples, tutorials and articles.
+> > > Free hand-picked HTML, CSS and JavaScript code examples, tutorials and articles.
 
 <p align="center">
   <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRedduhv_wfUah4kjHN453yhvZvMrf02O3tYQ&usqp=CAU" title="Free Frontend"/>
