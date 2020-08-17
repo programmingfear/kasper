@@ -44,7 +44,7 @@ Let me introduce some of my curated list of free and open-source resources that 
 > > An user-friendly, open source and beautiful design system based on Bootstrap 4 and Angular.
 
 <p align="center">
-  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbu5qE5v51AV97kx2bFtDynmBlWdmYlj6DwA&usqp=CAU" title="Tailwind CSS"/>
+  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbu5qE5v51AV97kx2bFtDynmBlWdmYlj6DwA&usqp=CAU" title="BLK Design"/>
 </p>
 
 
@@ -53,7 +53,7 @@ Let me introduce some of my curated list of free and open-source resources that 
 > > Materialize is a modern responsive CSS framework based on Material Design by Google.
 
 <p align="center">
-  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoCGUlCtzKO7dl0zcWa28bRJFhIz7M7wobMg&usqp=CAU" title="Tailwind CSS"/>
+  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoCGUlCtzKO7dl0zcWa28bRJFhIz7M7wobMg&usqp=CAU" title="Materialize CSS"/>
 </p>
 
 
@@ -70,7 +70,7 @@ Let me introduce some of my curated list of free and open-source resources that 
 > > Free hand-picked HTML, CSS and JavaScript code examples, tutorials and articles.
 
 <p align="center">
-  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRedduhv_wfUah4kjHN453yhvZvMrf02O3tYQ&usqp=CAU" title="Tailwind CSS"/>
+  <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRedduhv_wfUah4kjHN453yhvZvMrf02O3tYQ&usqp=CAU" title="Free Frontend"/>
 </p>
 
 
