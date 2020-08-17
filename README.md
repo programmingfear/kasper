@@ -1,44 +1,9 @@
-# Kasper
+# programmingfear
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+> https://programmingfear.github.io/
 
-## Installation
-
-    git clone https://github.com/rosario/kasper.git
-    cd kasper
-    gem install jekyll
-    gem install jekyll-paginate
-
-## How to use it
-
-Build page and start local web server
-
-    jekyll serve
-
-Build page into `_site` folder
-
-    jekyll build
-
-## Kasper theme includes
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
-
-## Thanks
-
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
+## About
+> An open source blog for all genre of programmers
 
 ## Copyright & License
 
